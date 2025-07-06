@@ -22,7 +22,7 @@ A motivational, AI-powered productivity assistant that helps you manage your to-
 
 ## 📦 Setup Instructions
 
-### 1. Clone the Repository
+### 1. Clone the Repositoy
 
 ```bash
 mkdir my-AI-Agent
